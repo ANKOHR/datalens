@@ -1,0 +1,26 @@
+Quarterly sales extract,prepared by Finance
+Date,Sales,Control,IQR probe,Z probe,Segment,Comment,Region,Empty field
+2026-01-01,100,100,0,10,Retail,review 1,North,
+2026-01-02,102,102,1,11,Online,review 2,North,
+2026-01-03,,104,2,12,Wholesale,review 3,North,
+2026-01-04,106,106,3,13,Retail,client’s note: café,North,
+2026-01-05,108,108,4,14,Online,review 5,North,
+2026-01-06,110,110,5,15,Wholesale,review 6,North
+2026-01-07,112,112,6,16,Retail,review 7,North,
+2026-01-08,114,114,7,17,Online,review 8,North,,unmapped tail
+2026-01-09,,116,8,18,Wholesale,review 9,North,
+2026-01-10,118,118,9,19,Retail,review 10,North,
+2026-01-11,pending,120,10,20,Online,review 11,North,
+2026-01-12,122,122,11,21,Wholesale,review 12,North,
+2026-01-13,124,124,12,22,Retail,review 13,North,
+2026-01-14,126,126,13,23,Online,review 14,North,
+2026-01-15,128,128,14,24,Wholesale,review 15,North,
+2026-01-16,130,130,15,25,Retail,review 16,North,
+2026-01-17,132,132,16,26,Online,review 17,North,
+2026-01-18,134,134,17,27,Wholesale,review 18,North,
+2026-01-19,136,136,18,28,Retail,review 19,North,
+2026-01-20,,138,19,29,Online,review 20,North,
+2026-01-31,140,140,20,30,Wholesale,review 21,North,
+2026-02-01,142,142,21,31,Retail,review 22,North,
+2026-02-02,144,144,22,32,Online,review 23,North,
+2026-02-03,146,146,35,1000,One-off,review 24,North,
