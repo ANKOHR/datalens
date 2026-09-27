@@ -1,0 +1,15 @@
+dl-prompt.txt
+dl-launch.py
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+build/
+dist/
+*.egg-info/
+datalens-audit.jsonl
+findings.json
+report.md
+report.html
+charts/
+*_charts/
