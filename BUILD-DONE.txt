@@ -1,0 +1,4 @@
+Test count: 16 passed
+Local commit hash: ce603a1fb54001b62faec217b537a5b79caa903b
+
+Summary: DataLens is a CPU-only Python CLI that ingests CSV and XLSX files, profiles columns, records deterministic audit trails, and emits evidence-backed heuristic and statistical findings for missing values, anomalies, date trends, and correlations. It generates Markdown and self-contained HTML reports with PNG charts, and its trace command resolves each finding to its rule, threshold, source rows, and observed cells. Synthetic messy CSV and merged-header XLSX fixtures exercise the end-to-end behavior, including byte-identical findings, audit trails, and charts across repeated runs.
